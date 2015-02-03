@@ -25,7 +25,9 @@ class AboutSandwichCode < Neo::Koan
       return line if line.match(/e/)
     end
   ensure
-    file.close if file
+    file.close if file 
+    #Statement if condition  == if condition, then Statement  
+    #if file  (a condition is true or will happen unless exactly Nil or exactly False)
   end
 
   def test_finding_lines

@@ -1,0 +1,10 @@
+Review
+
+**about_classes.rb//modules.rb/about_scope.rb/about_class_methods.rb/about_message_passing.rb/variable_scope**
+
+Less important, but still good practice for next week
+
+about_extra_credit.rb
+**about_proxy_object_project.rb
+**about_scoring_project.rb (redo later)
+
